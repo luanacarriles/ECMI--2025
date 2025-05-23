@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-#My first app
-Hello *world*
+#Luana lalala
+Hello *worlddd*
 """)
+lista = ["luana", "josir", "mariana"]
+st.write(lista[2])
